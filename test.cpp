@@ -6,5 +6,6 @@ int main()
 {
     cout << "gogogo git " << endl;
     cout << "csk jjang"
+    cout << "any way!!!"
     return 0;
 }
